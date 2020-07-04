@@ -1,1 +1,1 @@
-Collection of tools and utilies for the BeagleBoard Rev. C4
+Collection of tools and utilities for the BeagleBoard Rev. C4
